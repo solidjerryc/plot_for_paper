@@ -35,3 +35,8 @@ plt.show()#显示和保存的效果不一样，以保存的图片为准
 
 
 ![png](test1.png)
+
+
+If you put the picture in your word, remember do not zoom in and out. If the size is not suitable for your document, you can change the figsize.
+
+![png](pic1.png)
